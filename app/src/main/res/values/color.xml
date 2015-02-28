@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_silver">#8C8F8D</color>
+    <color name="bg_black">#010120</color>
+    <color name="good_movie_green">#8CFF8D</color>
+    <color name="bad_movie_red">#FF8F8D</color>
+</resources>
